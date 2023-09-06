@@ -1,0 +1,1001 @@
+id,genero,instrução,filhos,idade,altura,salário
+1,Female,Support,2,5,141,3394.59
+2,Female,Marketing,3,55,105,4678.12
+3,Female,Business Development,2,97,138,4003.1
+4,Female,Business Development,0,7,117,3843.01
+5,Female,Services,1,85,123,1899.07
+6,Male,Support,1,16,163,4027.35
+7,Female,Engineering,0,67,175,2836.36
+8,Female,Marketing,2,70,159,2459.6
+9,Female,Legal,0,0,154,4589.68
+10,Male,Product Management,3,36,105,1908.53
+11,Male,Accounting,2,75,199,4765.83
+12,Female,Engineering,2,72,140,4868.99
+13,Male,Accounting,0,16,161,3165.66
+14,Female,Engineering,3,49,118,4120.11
+15,Male,Support,1,56,104,4591.17
+16,Female,Product Management,1,57,126,1905.56
+17,Male,Human Resources,2,91,169,4229.87
+18,Female,Services,2,20,160,1941.47
+19,Male,Services,2,89,198,4186.17
+20,Female,Services,1,79,148,4902.87
+21,Female,Training,1,38,176,2455.65
+22,Female,Engineering,0,27,169,3644.74
+23,Male,Research and Development,0,74,123,2578.17
+24,Female,Training,3,29,158,4955.49
+25,Female,Accounting,1,26,153,1157.73
+26,Female,Accounting,3,95,182,1416.66
+27,Female,Legal,2,7,183,4510.9
+28,Male,Research and Development,0,69,114,1997.58
+29,Female,Human Resources,0,70,179,4767.16
+30,Female,Business Development,1,46,190,2339.02
+31,Female,Human Resources,2,6,101,3787.13
+32,Female,Research and Development,1,1,158,4669.94
+33,Female,Product Management,1,99,155,4306.36
+34,Male,Human Resources,3,3,161,1188.86
+35,Female,Support,2,53,161,1060.97
+36,Female,Services,3,81,182,2597.9
+37,Male,Services,3,72,150,3653.83
+38,Male,Sales,1,79,123,3530.42
+39,Female,Engineering,1,87,120,4189.88
+40,Male,Training,0,35,137,4523.78
+41,Female,Services,1,92,128,1105.32
+42,Male,Research and Development,3,1,142,4938.14
+43,Female,Business Development,0,15,179,1673.07
+44,Male,Sales,3,59,157,4213.93
+45,Male,Services,1,22,144,2826.02
+46,Female,Services,0,82,199,1175.63
+47,Male,Product Management,3,11,157,3655.17
+48,Male,Support,2,66,163,4953.29
+49,Male,Human Resources,1,86,198,4874.16
+50,Male,Services,2,94,181,1856.35
+51,Male,Engineering,1,86,179,3458.65
+52,Female,Research and Development,0,75,169,2563.58
+53,Female,Research and Development,0,78,114,1108.68
+54,Male,Business Development,2,50,106,3917.24
+55,Female,Product Management,3,35,103,4354.77
+56,Male,Research and Development,0,60,143,2506.89
+57,Male,Sales,2,35,177,2086.88
+58,Female,Business Development,3,45,186,1184.75
+59,Male,Sales,2,16,138,3068.72
+60,Female,Legal,2,81,107,2453.79
+61,Female,Business Development,3,2,200,3242.04
+62,Male,Accounting,3,9,133,1951.76
+63,Female,Human Resources,1,29,101,2133.17
+64,Female,Engineering,3,76,115,1271.32
+65,Male,Training,1,60,158,4557.84
+66,Male,Marketing,1,67,102,4717.71
+67,Male,Business Development,2,61,156,4463.4
+68,Male,Training,2,11,100,4546.57
+69,Male,Legal,3,57,119,1071.47
+70,Female,Human Resources,0,24,100,2236.75
+71,Female,Support,1,4,193,2962.01
+72,Male,Sales,2,84,113,3209.32
+73,Female,Legal,2,41,146,3631.4
+74,Male,Engineering,2,6,106,2149.5
+75,Female,Accounting,1,49,182,4218.88
+76,Female,Product Management,3,48,131,1929.01
+77,Female,Support,2,41,131,1708.15
+78,Male,Legal,3,87,138,4962.97
+79,Male,Engineering,1,42,147,1973.66
+80,Female,Sales,1,54,160,1202.81
+81,Male,Engineering,0,39,178,4449.47
+82,Female,Marketing,2,61,171,1719.51
+83,Female,Sales,1,87,153,3974.44
+84,Female,Product Management,3,96,100,4486.34
+85,Female,Accounting,2,18,193,4337.74
+86,Male,Research and Development,3,29,105,4110.54
+87,Male,Business Development,2,73,122,3540.51
+88,Male,Training,2,2,189,4436.29
+89,Female,Accounting,3,27,189,4267.61
+90,Male,Human Resources,1,26,133,2639.68
+91,Male,Marketing,2,26,139,4217.63
+92,Male,Legal,1,77,143,3238.38
+93,Female,Accounting,0,7,181,4124.87
+94,Female,Legal,2,77,189,3317.89
+95,Male,Human Resources,3,35,168,2410.02
+96,Male,Training,1,88,103,4780.16
+97,Female,Training,1,74,188,3684.75
+98,Female,Sales,0,15,184,2937.48
+99,Male,Marketing,2,22,167,3269.27
+100,Female,Product Management,1,40,119,2587.25
+101,Male,Human Resources,0,43,133,1906.46
+102,Female,Training,3,91,131,1804.36
+103,Female,Sales,1,94,129,2044.61
+104,Male,Human Resources,2,36,184,4335.05
+105,Female,Support,1,62,171,3072.14
+106,Female,Business Development,0,17,136,2915.05
+107,Male,Training,0,19,107,4045.86
+108,Female,Sales,1,72,125,3314.89
+109,Female,Sales,1,76,108,1046.05
+110,Male,Support,0,78,148,4050.02
+111,Female,Support,2,46,193,3330.56
+112,Female,Training,1,77,130,1902.73
+113,Male,Support,0,2,137,1015.61
+114,Male,Research and Development,2,7,192,4699.53
+115,Female,Sales,0,70,100,1723.96
+116,Female,Human Resources,3,50,134,2566.69
+117,Male,Support,3,43,121,3908.38
+118,Female,Engineering,0,19,135,3236.85
+119,Male,Human Resources,1,89,111,3657.08
+120,Female,Research and Development,3,14,100,2730.55
+121,Female,Legal,2,49,160,2835.79
+122,Female,Accounting,3,49,171,2066.81
+123,Male,Engineering,2,26,156,3197.26
+124,Male,Sales,1,67,156,3603.75
+125,Female,Accounting,3,87,149,1385.09
+126,Female,Human Resources,2,6,137,4753.33
+127,Male,Support,2,5,120,3094.15
+128,Male,Training,1,25,163,1693.13
+129,Male,Engineering,0,35,102,4272.94
+130,Male,Services,3,64,118,3544.59
+131,Female,Accounting,3,94,111,1959.3
+132,Female,Research and Development,0,83,124,3514.03
+133,Female,Marketing,0,1,179,3043.86
+134,Male,Marketing,3,76,200,3975.21
+135,Female,Human Resources,2,45,155,1867.1
+136,Female,Engineering,1,62,188,1022.92
+137,Female,Research and Development,0,91,136,1958.14
+138,Female,Services,1,24,131,4740.98
+139,Male,Support,1,68,180,3182.5
+140,Female,Training,1,83,107,1677.19
+141,Female,Engineering,2,91,132,1610.25
+142,Female,Human Resources,3,20,119,3780.4
+143,Female,Services,2,95,175,2636.06
+144,Male,Support,3,30,148,4488.87
+145,Male,Accounting,1,54,191,2332.44
+146,Male,Sales,2,66,111,2840.98
+147,Male,Human Resources,3,42,166,4201.43
+148,Female,Support,1,85,127,3863.04
+149,Male,Legal,1,65,127,4920.74
+150,Male,Business Development,3,42,200,3540.72
+151,Female,Engineering,2,10,176,3138.58
+152,Male,Engineering,0,0,166,4420.66
+153,Female,Sales,0,38,133,4229.72
+154,Female,Human Resources,3,16,138,2213.25
+155,Male,Product Management,3,77,100,4986.96
+156,Male,Support,3,91,103,2758.51
+157,Male,Marketing,2,42,108,4269.32
+158,Male,Sales,0,36,147,2028.71
+159,Male,Accounting,3,66,132,2350.14
+160,Female,Engineering,1,51,144,2079.34
+161,Female,Product Management,3,66,116,1442.57
+162,Female,Research and Development,0,84,103,2222.9
+163,Male,Services,1,54,178,3324.32
+164,Male,Accounting,1,16,185,4529.54
+165,Female,Training,2,88,108,1587.68
+166,Male,Research and Development,0,85,119,4877.02
+167,Male,Training,2,0,198,3174.93
+168,Female,Support,2,92,179,2004.61
+169,Female,Accounting,2,12,130,1439.12
+170,Male,Engineering,1,73,126,1918.5
+171,Female,Accounting,0,10,171,1323.16
+172,Male,Support,3,50,192,1573.92
+173,Male,Marketing,3,75,182,1244.13
+174,Female,Training,3,79,143,3897.47
+175,Male,Product Management,2,66,154,2393.36
+176,Male,Marketing,0,63,165,3525.62
+177,Male,Accounting,2,16,188,1514.7
+178,Female,Product Management,1,40,145,3310.02
+179,Female,Support,0,80,157,4661.1
+180,Female,Engineering,2,73,189,3599.15
+181,Female,Training,1,46,139,4074.38
+182,Female,Support,3,96,172,2790.51
+183,Male,Marketing,0,62,193,2012.06
+184,Female,Services,2,81,165,4733.29
+185,Female,Training,2,9,105,2553.87
+186,Male,Human Resources,0,65,118,4486.47
+187,Female,Training,3,18,145,3526.79
+188,Female,Engineering,0,7,102,1583.67
+189,Female,Legal,1,70,189,3277.31
+190,Female,Research and Development,2,87,188,4952.97
+191,Male,Engineering,0,46,135,3187.54
+192,Female,Services,2,52,137,1768.87
+193,Female,Training,1,37,169,2845.68
+194,Female,Support,2,72,184,3943.72
+195,Female,Marketing,0,77,118,1338.08
+196,Male,Human Resources,3,43,144,2640.34
+197,Male,Services,2,46,156,1295.87
+198,Male,Business Development,1,4,162,2510.91
+199,Female,Business Development,1,66,104,4477.8
+200,Female,Engineering,3,76,112,3950.29
+201,Female,Support,1,33,134,3078.83
+202,Male,Business Development,3,29,152,1229.47
+203,Male,Human Resources,0,96,108,3862.71
+204,Female,Marketing,0,5,197,1806.33
+205,Female,Sales,0,34,186,4824.5
+206,Female,Marketing,2,35,132,2684.02
+207,Female,Legal,3,8,138,4003.32
+208,Male,Accounting,1,3,191,1524.68
+209,Female,Product Management,3,29,195,2933.25
+210,Male,Sales,1,87,179,2060.14
+211,Male,Product Management,0,65,194,3657.39
+212,Male,Product Management,1,36,187,1036.24
+213,Female,Product Management,2,42,120,4378.57
+214,Female,Engineering,0,60,102,3809.6
+215,Male,Accounting,3,74,105,3425.8
+216,Female,Marketing,0,43,134,1429.05
+217,Female,Accounting,0,50,131,2586.75
+218,Male,Human Resources,2,67,142,2504.85
+219,Female,Sales,2,7,191,4190.58
+220,Male,Sales,0,95,169,1674.24
+221,Female,Accounting,2,91,182,4267.23
+222,Male,Business Development,2,76,137,3706.41
+223,Male,Training,2,64,158,1251.02
+224,Female,Sales,2,1,160,4196.77
+225,Male,Support,3,26,151,1062.85
+226,Male,Business Development,3,66,143,2376.82
+227,Female,Research and Development,1,13,144,1301.04
+228,Male,Services,3,18,169,3729.44
+229,Female,Business Development,2,24,150,3250.32
+230,Female,Research and Development,1,47,190,2373.35
+231,Female,Sales,3,88,170,1329.49
+232,Male,Marketing,1,26,200,4804.39
+233,Female,Marketing,3,77,123,4840.47
+234,Female,Accounting,2,52,147,4703.05
+235,Female,Services,0,62,108,4028.74
+236,Male,Product Management,3,12,111,3731.13
+237,Male,Research and Development,3,3,150,2324.37
+238,Male,Support,3,47,161,1634.12
+239,Male,Legal,0,3,160,3112.82
+240,Male,Training,3,72,121,4812.3
+241,Male,Human Resources,1,68,145,1518.34
+242,Male,Engineering,1,4,157,1802.81
+243,Male,Legal,0,42,141,1218.6
+244,Male,Legal,2,23,107,2119.54
+245,Female,Research and Development,3,88,188,3966.87
+246,Male,Business Development,3,52,177,4056.92
+247,Female,Legal,0,37,120,3463.76
+248,Female,Legal,3,25,175,2418.37
+249,Male,Research and Development,0,84,103,2776.81
+250,Male,Accounting,1,85,100,1413.03
+251,Male,Engineering,1,78,174,3051.33
+252,Female,Sales,3,31,167,4873.43
+253,Male,Services,3,81,176,2914.12
+254,Female,Human Resources,0,82,189,4783.21
+255,Female,Research and Development,1,24,144,4290.98
+256,Female,Support,1,44,138,4757.59
+257,Male,Accounting,1,91,182,3379.51
+258,Male,Services,3,60,161,4448.7
+259,Male,Research and Development,1,65,105,2551.71
+260,Female,Product Management,3,59,160,1148.14
+261,Female,Business Development,2,91,189,4962.01
+262,Female,Sales,0,34,169,1677.51
+263,Female,Accounting,1,21,169,2121.33
+264,Female,Product Management,3,80,140,4151.65
+265,Male,Research and Development,1,17,110,2849.97
+266,Male,Product Management,1,86,141,4273.69
+267,Female,Research and Development,1,99,108,4494.34
+268,Male,Research and Development,0,20,129,1397.56
+269,Female,Human Resources,1,53,132,1856.61
+270,Male,Product Management,3,41,159,1227.03
+271,Male,Business Development,1,79,147,2878.72
+272,Female,Business Development,1,72,138,2386.64
+273,Female,Accounting,1,59,138,1029.25
+274,Female,Legal,1,6,176,4080.75
+275,Male,Marketing,0,84,111,4686.63
+276,Male,Services,3,69,140,4827.91
+277,Female,Marketing,3,31,109,1626.25
+278,Male,Product Management,1,83,161,2292.03
+279,Female,Services,1,88,180,4342.23
+280,Male,Marketing,3,81,106,3819.78
+281,Male,Research and Development,0,1,191,3919.3
+282,Female,Research and Development,1,31,135,4322.57
+283,Male,Engineering,2,78,175,4400.42
+284,Female,Product Management,3,73,200,2572.61
+285,Female,Business Development,2,9,185,3524.05
+286,Female,Product Management,0,37,152,2024.08
+287,Female,Sales,1,98,124,3531.96
+288,Male,Human Resources,3,43,179,2910.81
+289,Male,Engineering,0,0,196,2559.48
+290,Female,Business Development,1,6,100,1133.82
+291,Female,Legal,0,84,197,2257.8
+292,Male,Services,1,4,105,3671.18
+293,Female,Marketing,0,85,113,2181.84
+294,Male,Human Resources,3,49,186,2404.51
+295,Male,Accounting,2,24,186,3347.0
+296,Male,Business Development,3,99,123,2702.42
+297,Female,Marketing,3,8,148,3242.98
+298,Male,Sales,2,73,113,1344.26
+299,Female,Accounting,0,92,104,3155.59
+300,Female,Accounting,2,26,133,1868.39
+301,Female,Product Management,1,41,120,3374.05
+302,Female,Training,0,97,129,1143.36
+303,Male,Marketing,1,75,130,2477.34
+304,Male,Research and Development,0,100,129,3095.28
+305,Female,Training,0,32,117,2747.96
+306,Female,Support,0,95,180,3034.52
+307,Male,Business Development,1,52,184,4912.18
+308,Female,Training,2,53,136,4963.98
+309,Male,Product Management,1,41,149,3348.67
+310,Male,Engineering,0,57,197,1026.14
+311,Female,Marketing,1,24,124,1200.27
+312,Female,Services,1,47,146,4388.7
+313,Male,Business Development,2,28,131,1186.97
+314,Female,Engineering,0,35,109,3184.35
+315,Female,Accounting,2,19,171,4867.67
+316,Female,Support,3,56,125,3476.95
+317,Male,Training,1,54,146,1609.12
+318,Male,Legal,3,21,126,2743.96
+319,Male,Product Management,3,12,197,4209.88
+320,Female,Support,2,96,155,4201.68
+321,Male,Sales,0,64,152,3902.65
+322,Female,Services,3,57,194,4289.68
+323,Female,Services,1,21,142,4094.24
+324,Male,Business Development,1,33,149,3850.02
+325,Female,Support,0,15,167,3087.89
+326,Male,Product Management,0,17,162,3010.56
+327,Male,Accounting,2,67,158,1831.44
+328,Female,Business Development,1,40,141,1923.62
+329,Male,Accounting,3,44,152,4112.37
+330,Female,Services,0,52,163,4150.08
+331,Female,Training,2,49,129,3647.23
+332,Female,Support,1,55,123,3889.14
+333,Male,Support,2,96,128,3530.79
+334,Female,Legal,3,50,128,2529.43
+335,Female,Training,3,77,118,1397.03
+336,Female,Services,3,45,141,1548.7
+337,Male,Accounting,0,43,120,2013.35
+338,Female,Legal,0,100,146,3363.62
+339,Male,Engineering,0,67,144,1436.38
+340,Male,Research and Development,2,5,153,2735.61
+341,Female,Services,3,68,124,2064.34
+342,Male,Business Development,1,9,130,4733.56
+343,Female,Product Management,3,20,177,2286.55
+344,Female,Services,1,77,131,3456.6
+345,Male,Legal,3,59,164,1012.18
+346,Female,Legal,2,98,106,3926.2
+347,Female,Product Management,2,48,118,2410.9
+348,Male,Support,0,35,145,1179.72
+349,Male,Human Resources,2,53,168,4303.63
+350,Female,Research and Development,2,45,158,3061.1
+351,Male,Support,2,15,101,1764.2
+352,Male,Research and Development,2,20,117,4514.72
+353,Male,Sales,0,99,179,2262.79
+354,Male,Engineering,0,11,100,2900.09
+355,Male,Product Management,3,84,124,4787.48
+356,Male,Research and Development,3,94,141,4663.98
+357,Female,Business Development,1,20,173,3104.15
+358,Female,Support,3,32,185,3060.3
+359,Male,Accounting,1,92,166,1142.04
+360,Male,Accounting,0,58,168,1154.49
+361,Male,Services,2,58,120,4605.08
+362,Female,Human Resources,2,7,113,3830.09
+363,Male,Sales,0,92,189,1208.57
+364,Female,Sales,0,2,124,3781.32
+365,Female,Training,2,87,111,4617.81
+366,Male,Accounting,1,45,146,1250.5
+367,Female,Research and Development,2,59,156,3125.46
+368,Female,Research and Development,1,7,104,2741.93
+369,Female,Support,3,43,197,1619.33
+370,Female,Product Management,0,74,193,4099.95
+371,Male,Accounting,3,97,190,3453.82
+372,Male,Training,1,32,143,3961.36
+373,Male,Engineering,1,16,148,3805.09
+374,Female,Human Resources,3,51,114,1686.15
+375,Female,Sales,2,57,129,4538.2
+376,Female,Research and Development,0,33,123,3019.49
+377,Male,Legal,3,38,110,3233.38
+378,Female,Human Resources,0,66,157,2982.24
+379,Female,Human Resources,0,51,126,4792.15
+380,Male,Business Development,1,97,196,2971.95
+381,Male,Legal,2,54,107,2473.26
+382,Male,Legal,0,83,103,1173.62
+383,Female,Legal,1,45,149,4042.93
+384,Male,Accounting,0,44,138,4328.5
+385,Male,Product Management,0,17,190,4396.88
+386,Female,Human Resources,2,49,123,4915.46
+387,Male,Support,1,3,192,3978.38
+388,Female,Product Management,0,93,167,3936.33
+389,Female,Legal,3,40,106,2882.54
+390,Female,Support,3,22,117,3708.35
+391,Female,Services,0,9,129,4343.56
+392,Female,Accounting,1,18,172,4972.45
+393,Male,Training,2,17,128,3507.5
+394,Male,Support,1,27,123,2327.51
+395,Male,Business Development,2,1,119,4695.24
+396,Female,Services,2,41,134,3349.71
+397,Male,Engineering,0,15,112,2179.74
+398,Female,Training,3,40,133,2320.38
+399,Male,Research and Development,1,30,101,2773.64
+400,Female,Research and Development,1,39,195,3420.14
+401,Male,Engineering,2,14,176,1926.88
+402,Male,Engineering,2,37,129,4125.12
+403,Male,Training,0,98,190,3252.44
+404,Male,Engineering,1,28,163,1860.96
+405,Female,Services,2,26,181,1548.33
+406,Female,Services,3,93,103,3630.34
+407,Female,Training,1,39,110,1137.83
+408,Female,Sales,2,15,184,4733.88
+409,Male,Services,0,12,118,2963.44
+410,Female,Marketing,2,68,161,2304.3
+411,Male,Training,0,23,120,3567.32
+412,Male,Legal,1,82,125,1028.89
+413,Male,Product Management,2,57,147,1245.82
+414,Male,Research and Development,0,86,143,4534.2
+415,Female,Legal,3,65,170,3781.66
+416,Male,Legal,0,63,181,2991.76
+417,Female,Product Management,1,68,133,4747.3
+418,Male,Research and Development,0,85,183,1058.3
+419,Female,Marketing,0,95,138,3502.62
+420,Male,Accounting,3,91,131,4618.75
+421,Male,Human Resources,2,17,167,4976.79
+422,Female,Services,2,83,180,1916.16
+423,Female,Support,0,64,140,2581.06
+424,Male,Business Development,0,80,151,4205.79
+425,Male,Human Resources,0,16,100,3798.04
+426,Female,Product Management,1,25,178,2994.58
+427,Female,Services,3,46,161,3406.73
+428,Female,Engineering,3,87,147,4643.92
+429,Female,Legal,1,60,173,1169.31
+430,Male,Marketing,3,85,113,4507.68
+431,Male,Sales,1,41,124,2317.14
+432,Male,Research and Development,0,4,177,3231.75
+433,Female,Accounting,3,13,189,4850.18
+434,Male,Legal,1,84,199,2056.36
+435,Male,Sales,2,10,165,3325.07
+436,Male,Services,1,33,161,4289.64
+437,Female,Marketing,2,73,177,4757.24
+438,Female,Business Development,0,51,194,4231.83
+439,Female,Legal,1,32,176,4593.4
+440,Female,Human Resources,1,31,101,4100.82
+441,Female,Sales,1,18,179,4894.44
+442,Male,Support,2,36,127,1468.65
+443,Female,Legal,1,4,103,1895.28
+444,Male,Accounting,0,78,164,1065.33
+445,Male,Research and Development,0,1,147,1015.87
+446,Male,Product Management,1,37,163,4864.84
+447,Female,Research and Development,1,24,109,3726.77
+448,Female,Training,2,38,132,4081.67
+449,Male,Training,2,74,120,4897.71
+450,Female,Marketing,0,20,198,4326.43
+451,Female,Research and Development,2,90,156,4408.21
+452,Female,Engineering,0,3,105,1803.16
+453,Female,Business Development,1,51,172,4634.43
+454,Female,Sales,2,97,186,4457.34
+455,Male,Engineering,2,45,160,3308.79
+456,Male,Support,0,94,152,1259.24
+457,Male,Sales,3,16,171,1957.58
+458,Female,Product Management,3,51,107,1466.37
+459,Female,Marketing,3,34,159,4486.64
+460,Male,Product Management,2,30,123,1387.28
+461,Male,Sales,0,0,184,3895.88
+462,Male,Legal,1,74,129,3919.24
+463,Male,Training,1,82,195,2087.64
+464,Female,Product Management,2,48,102,3377.81
+465,Male,Human Resources,1,96,130,3252.74
+466,Male,Training,3,3,133,3530.55
+467,Female,Accounting,2,56,114,4207.19
+468,Female,Engineering,1,14,171,1626.5
+469,Female,Marketing,1,67,143,2894.7
+470,Female,Engineering,1,54,146,3080.03
+471,Male,Research and Development,1,42,115,2997.68
+472,Female,Engineering,2,21,192,3350.73
+473,Male,Human Resources,3,92,146,4276.96
+474,Female,Services,0,88,150,4951.38
+475,Female,Sales,3,11,152,3658.93
+476,Female,Engineering,1,72,194,2788.79
+477,Male,Product Management,2,94,108,1492.16
+478,Male,Marketing,1,80,139,2448.15
+479,Female,Support,2,27,163,1505.11
+480,Female,Sales,1,3,124,4219.13
+481,Female,Services,0,29,126,4564.22
+482,Male,Human Resources,3,46,143,4938.19
+483,Female,Legal,1,83,136,2911.37
+484,Female,Human Resources,0,26,153,2647.09
+485,Male,Accounting,1,41,115,4008.68
+486,Male,Human Resources,3,99,114,4555.59
+487,Male,Research and Development,1,62,101,2502.53
+488,Female,Product Management,3,72,149,3309.54
+489,Female,Research and Development,0,87,147,3829.9
+490,Male,Business Development,0,5,138,3592.25
+491,Female,Engineering,0,71,110,1275.91
+492,Male,Engineering,2,88,195,4491.65
+493,Female,Accounting,2,32,199,2301.94
+494,Female,Training,1,39,184,1401.76
+495,Female,Research and Development,3,23,123,1823.09
+496,Female,Product Management,1,14,191,2081.54
+497,Female,Training,3,50,182,2982.93
+498,Male,Human Resources,0,57,134,1321.44
+499,Male,Accounting,3,84,150,1911.9
+500,Female,Engineering,2,60,178,3016.9
+501,Female,Business Development,3,34,168,2430.02
+502,Female,Marketing,2,16,163,3026.68
+503,Male,Research and Development,2,31,140,2829.59
+504,Male,Product Management,1,80,128,1473.78
+505,Female,Product Management,0,27,198,1854.97
+506,Male,Research and Development,2,44,124,1460.25
+507,Female,Services,0,29,100,4722.61
+508,Male,Sales,0,26,112,2669.09
+509,Female,Training,3,72,136,3543.4
+510,Male,Sales,0,19,105,3888.43
+511,Female,Business Development,3,1,135,4534.96
+512,Male,Research and Development,2,0,107,1326.42
+513,Female,Engineering,3,78,101,3538.5
+514,Male,Research and Development,2,17,140,1613.8
+515,Female,Training,3,78,117,3197.24
+516,Female,Training,3,73,114,2998.31
+517,Male,Services,3,93,157,4188.29
+518,Female,Marketing,3,44,183,4413.91
+519,Male,Services,0,44,128,3130.64
+520,Male,Marketing,0,89,123,3286.26
+521,Female,Training,0,62,129,4901.78
+522,Female,Sales,1,79,164,3313.67
+523,Female,Sales,0,20,149,2627.87
+524,Female,Product Management,2,98,163,3798.3
+525,Male,Support,3,20,109,4307.8
+526,Female,Engineering,2,90,102,2394.8
+527,Male,Training,1,13,170,1990.05
+528,Male,Engineering,1,70,128,2642.71
+529,Male,Human Resources,1,30,148,3772.84
+530,Female,Legal,0,66,106,3633.9
+531,Female,Training,1,36,172,1324.13
+532,Male,Product Management,2,23,130,1222.29
+533,Female,Business Development,2,91,142,2799.38
+534,Female,Engineering,0,75,170,3848.01
+535,Female,Marketing,0,28,169,1754.16
+536,Female,Product Management,0,63,126,2987.48
+537,Male,Sales,2,10,170,2646.78
+538,Male,Business Development,2,13,124,2476.68
+539,Female,Research and Development,1,24,110,3150.05
+540,Male,Research and Development,1,41,113,4875.89
+541,Female,Engineering,1,3,159,3732.77
+542,Male,Sales,3,48,167,4447.36
+543,Male,Sales,0,14,173,3614.63
+544,Female,Support,2,13,103,1558.63
+545,Female,Marketing,1,77,145,4263.0
+546,Female,Research and Development,0,2,179,3421.13
+547,Male,Engineering,1,4,100,2910.19
+548,Female,Services,1,68,120,4615.57
+549,Female,Product Management,1,87,199,2356.76
+550,Female,Business Development,3,77,124,3126.19
+551,Female,Sales,0,41,109,2958.73
+552,Male,Sales,0,17,155,2813.24
+553,Female,Engineering,0,92,139,3217.43
+554,Male,Services,0,93,170,4065.43
+555,Female,Business Development,3,2,171,1789.25
+556,Female,Training,2,9,113,1545.48
+557,Female,Marketing,1,100,179,2833.3
+558,Male,Support,0,55,103,2171.15
+559,Female,Services,2,82,133,1885.01
+560,Female,Engineering,1,87,113,1222.04
+561,Female,Product Management,1,31,181,2544.92
+562,Female,Services,2,40,179,1326.4
+563,Female,Support,3,6,198,1590.59
+564,Male,Accounting,0,43,165,3457.56
+565,Male,Legal,2,64,118,3187.5
+566,Female,Legal,1,24,154,3373.67
+567,Female,Legal,1,5,190,3712.7
+568,Male,Training,1,18,105,1777.72
+569,Female,Accounting,0,76,100,3745.94
+570,Male,Research and Development,0,7,192,1146.24
+571,Female,Sales,1,62,193,3814.47
+572,Male,Legal,1,64,167,3370.86
+573,Male,Legal,1,54,188,3394.81
+574,Female,Business Development,0,95,166,2663.75
+575,Male,Sales,2,46,193,3477.55
+576,Male,Business Development,0,55,122,2761.38
+577,Female,Services,1,61,124,4550.38
+578,Female,Marketing,0,18,195,2728.1
+579,Male,Human Resources,1,76,167,3943.88
+580,Male,Support,0,31,161,4153.39
+581,Female,Business Development,0,57,131,4599.17
+582,Female,Sales,1,93,143,3876.01
+583,Male,Marketing,3,51,154,2623.0
+584,Female,Training,0,13,159,1842.02
+585,Male,Accounting,0,14,198,2924.39
+586,Male,Marketing,1,15,110,3432.57
+587,Female,Accounting,1,53,189,1197.09
+588,Female,Training,2,35,195,3659.29
+589,Male,Human Resources,3,35,176,1610.14
+590,Female,Engineering,1,81,140,2160.04
+591,Female,Legal,0,69,133,4009.45
+592,Male,Services,2,13,195,2323.58
+593,Male,Support,3,40,128,1411.92
+594,Male,Accounting,0,41,186,1165.05
+595,Male,Research and Development,3,58,185,3981.13
+596,Female,Marketing,3,23,141,3764.92
+597,Male,Research and Development,1,2,190,2661.95
+598,Male,Sales,0,42,107,1612.97
+599,Female,Business Development,3,95,115,1917.85
+600,Female,Sales,3,22,188,1830.72
+601,Male,Research and Development,0,68,109,3945.55
+602,Male,Research and Development,1,57,200,4722.85
+603,Male,Engineering,2,0,100,1061.99
+604,Female,Sales,3,91,154,4127.4
+605,Female,Sales,3,66,130,2513.75
+606,Male,Business Development,3,57,127,2199.2
+607,Female,Support,3,30,143,3941.64
+608,Male,Support,3,66,128,2246.15
+609,Male,Marketing,3,47,159,3048.15
+610,Male,Business Development,3,19,176,4176.85
+611,Female,Legal,1,71,194,2954.85
+612,Male,Business Development,2,3,193,3666.88
+613,Female,Product Management,2,98,181,4545.49
+614,Female,Research and Development,2,78,157,3831.26
+615,Male,Legal,1,5,124,2364.5
+616,Male,Engineering,0,43,164,4526.04
+617,Female,Support,2,41,200,2598.78
+618,Female,Business Development,0,49,126,4925.49
+619,Male,Services,3,24,197,4308.69
+620,Male,Services,2,22,129,4297.96
+621,Female,Business Development,0,81,171,1112.15
+622,Female,Human Resources,1,64,112,4359.16
+623,Male,Accounting,0,93,161,4404.63
+624,Female,Research and Development,0,78,100,1353.07
+625,Female,Services,3,47,123,1931.86
+626,Female,Research and Development,3,17,138,1828.33
+627,Female,Research and Development,3,27,168,1863.83
+628,Male,Sales,1,64,127,1955.26
+629,Female,Human Resources,3,28,136,4344.83
+630,Female,Legal,0,29,133,3358.94
+631,Female,Product Management,0,98,172,1378.01
+632,Female,Marketing,3,62,164,2140.29
+633,Female,Training,0,15,185,4203.1
+634,Female,Sales,2,47,172,2685.79
+635,Male,Marketing,0,95,187,2492.07
+636,Female,Research and Development,1,100,179,2097.96
+637,Female,Training,3,24,124,2508.94
+638,Female,Product Management,1,61,116,1187.79
+639,Male,Support,1,19,178,4737.26
+640,Female,Accounting,2,69,145,2538.47
+641,Male,Business Development,2,27,185,3511.19
+642,Male,Marketing,0,50,176,3923.43
+643,Female,Legal,3,39,118,4956.29
+644,Male,Marketing,2,33,151,2717.83
+645,Female,Support,1,70,155,4167.7
+646,Male,Engineering,3,76,154,1778.88
+647,Male,Human Resources,3,8,146,3428.46
+648,Female,Legal,3,25,176,4313.76
+649,Male,Legal,2,98,158,3450.1
+650,Male,Support,1,28,177,2196.91
+651,Male,Product Management,2,65,177,1609.79
+652,Female,Marketing,2,15,143,1881.21
+653,Male,Support,0,46,139,4282.26
+654,Female,Product Management,2,100,133,3855.04
+655,Male,Marketing,0,80,154,3863.74
+656,Male,Research and Development,3,42,147,1045.15
+657,Female,Business Development,1,73,145,1335.36
+658,Male,Human Resources,3,18,126,1043.28
+659,Female,Sales,2,15,108,4856.15
+660,Male,Accounting,2,98,174,2225.2
+661,Female,Sales,2,40,144,1555.23
+662,Female,Product Management,0,81,170,3270.48
+663,Male,Product Management,2,73,128,4374.48
+664,Female,Training,3,21,137,2206.77
+665,Female,Services,2,40,144,3561.65
+666,Female,Research and Development,0,26,156,1046.1
+667,Female,Human Resources,3,44,108,2308.33
+668,Male,Training,1,83,190,3269.35
+669,Female,Human Resources,2,79,107,3258.51
+670,Female,Engineering,1,29,190,2789.57
+671,Male,Sales,1,16,118,2410.9
+672,Male,Services,2,32,184,3333.44
+673,Male,Training,3,37,121,1455.35
+674,Male,Services,3,81,179,2806.22
+675,Female,Marketing,2,28,158,2050.56
+676,Male,Product Management,2,17,153,3812.63
+677,Male,Training,0,83,107,3030.69
+678,Male,Services,1,95,120,3236.12
+679,Male,Support,2,47,173,4179.81
+680,Male,Business Development,3,42,189,1230.65
+681,Female,Human Resources,2,11,200,4916.82
+682,Male,Accounting,0,74,131,4286.92
+683,Female,Sales,3,28,195,1919.92
+684,Male,Engineering,0,65,191,2469.78
+685,Male,Legal,3,6,107,3866.7
+686,Male,Product Management,3,79,147,2188.14
+687,Female,Services,1,83,149,2494.88
+688,Male,Sales,0,51,144,1014.35
+689,Male,Services,1,13,181,3625.39
+690,Male,Business Development,0,32,131,1528.12
+691,Male,Accounting,0,62,136,1991.14
+692,Female,Accounting,1,34,115,3480.25
+693,Male,Legal,3,98,137,1473.68
+694,Female,Research and Development,3,90,188,4448.13
+695,Female,Product Management,2,6,132,1772.58
+696,Female,Business Development,0,5,148,2714.71
+697,Male,Training,1,17,175,2985.55
+698,Female,Support,0,5,188,4440.21
+699,Male,Legal,3,24,197,4001.8
+700,Female,Legal,0,69,127,2390.91
+701,Female,Training,0,55,197,3820.12
+702,Male,Training,2,81,177,3601.43
+703,Male,Services,3,41,187,2634.53
+704,Male,Marketing,2,2,161,1517.97
+705,Female,Engineering,3,59,144,4537.32
+706,Male,Research and Development,2,60,194,2070.94
+707,Female,Marketing,1,33,169,4559.75
+708,Female,Legal,1,40,197,2374.94
+709,Female,Legal,1,76,103,2930.8
+710,Male,Support,1,63,146,3361.09
+711,Male,Marketing,1,26,135,3865.55
+712,Female,Product Management,0,7,159,4014.96
+713,Female,Marketing,0,27,151,2810.8
+714,Male,Human Resources,1,99,126,1277.77
+715,Female,Sales,1,42,140,4304.79
+716,Male,Legal,3,15,188,4862.0
+717,Male,Training,1,35,177,2000.87
+718,Female,Engineering,0,13,131,1012.03
+719,Female,Services,3,12,184,4675.79
+720,Male,Marketing,2,81,184,3188.32
+721,Male,Marketing,0,80,137,2743.59
+722,Female,Sales,0,13,179,3104.07
+723,Male,Accounting,3,47,133,2899.06
+724,Female,Marketing,3,25,168,1503.41
+725,Male,Sales,1,95,104,2879.15
+726,Male,Services,0,61,145,4438.05
+727,Female,Services,0,70,151,2605.05
+728,Female,Business Development,0,54,124,2834.15
+729,Male,Legal,0,67,186,2274.56
+730,Male,Support,3,61,160,3075.94
+731,Female,Training,1,36,178,1365.2
+732,Female,Human Resources,2,48,114,3011.81
+733,Female,Legal,0,42,150,3470.33
+734,Male,Support,2,68,122,4859.29
+735,Male,Human Resources,2,46,148,1248.15
+736,Female,Marketing,1,28,170,2194.08
+737,Male,Services,2,41,118,1164.15
+738,Male,Engineering,1,70,118,2605.72
+739,Female,Services,0,58,159,1030.66
+740,Male,Legal,3,47,110,4631.42
+741,Male,Legal,1,65,156,1668.13
+742,Male,Accounting,0,86,111,3003.18
+743,Male,Sales,3,61,103,1576.56
+744,Male,Sales,3,47,122,2096.0
+745,Female,Product Management,3,12,132,2882.84
+746,Female,Product Management,3,88,151,1667.98
+747,Male,Sales,2,71,131,1422.08
+748,Female,Marketing,1,68,148,2889.78
+749,Male,Services,3,57,128,4691.9
+750,Female,Marketing,2,99,110,1909.46
+751,Male,Marketing,3,2,102,4633.9
+752,Male,Research and Development,0,49,151,2811.58
+753,Male,Legal,3,13,123,3079.77
+754,Female,Legal,3,27,121,1488.49
+755,Male,Sales,2,92,172,1816.92
+756,Female,Sales,1,18,196,2827.4
+757,Male,Support,0,24,144,4309.27
+758,Male,Accounting,2,23,131,3143.11
+759,Male,Product Management,0,87,158,3683.65
+760,Female,Business Development,0,11,155,2607.97
+761,Female,Engineering,2,53,187,2778.17
+762,Male,Business Development,0,77,197,3506.75
+763,Female,Research and Development,1,46,173,4622.68
+764,Male,Training,3,46,192,2143.29
+765,Female,Sales,0,23,138,1406.83
+766,Male,Training,2,97,164,3494.8
+767,Female,Training,3,27,132,4918.07
+768,Female,Product Management,1,23,105,1886.33
+769,Female,Support,1,58,147,4948.22
+770,Female,Business Development,3,64,187,4140.0
+771,Female,Engineering,3,91,101,1965.34
+772,Female,Business Development,3,37,124,4933.63
+773,Male,Accounting,1,69,184,1169.79
+774,Female,Services,3,32,153,4893.52
+775,Male,Services,2,15,128,3442.71
+776,Male,Training,2,78,106,2886.71
+777,Female,Support,3,31,108,2979.9
+778,Male,Research and Development,0,55,149,3489.88
+779,Male,Engineering,1,19,184,4739.57
+780,Female,Sales,2,88,200,3517.72
+781,Male,Product Management,1,95,111,3004.39
+782,Male,Training,0,25,145,2531.24
+783,Male,Marketing,1,67,198,2268.5
+784,Female,Engineering,2,56,130,2920.84
+785,Female,Accounting,0,89,153,3858.44
+786,Female,Business Development,3,42,153,3156.82
+787,Female,Human Resources,1,55,103,4489.76
+788,Male,Business Development,2,88,108,3510.68
+789,Male,Training,3,64,125,1451.2
+790,Male,Training,2,30,123,2100.27
+791,Male,Research and Development,1,79,174,1867.0
+792,Male,Legal,0,42,127,2963.12
+793,Male,Product Management,1,87,198,4892.11
+794,Female,Services,0,98,127,3284.14
+795,Male,Sales,3,75,129,1290.71
+796,Male,Support,0,92,127,4907.25
+797,Male,Product Management,1,31,153,4154.36
+798,Female,Business Development,2,36,166,1680.12
+799,Male,Engineering,1,75,133,4054.57
+800,Female,Legal,2,91,180,2203.7
+801,Male,Research and Development,3,28,170,4707.1
+802,Female,Marketing,1,28,188,3545.55
+803,Female,Marketing,0,85,122,4911.44
+804,Female,Support,2,83,148,4153.61
+805,Female,Support,0,33,103,3441.23
+806,Female,Marketing,0,40,156,4787.05
+807,Female,Human Resources,0,47,116,1182.84
+808,Male,Accounting,2,40,184,1082.56
+809,Male,Services,1,13,104,3336.26
+810,Female,Support,1,1,181,2262.84
+811,Male,Research and Development,0,94,105,2860.89
+812,Male,Business Development,0,67,185,1614.38
+813,Female,Legal,0,87,165,4633.93
+814,Female,Support,1,2,146,2821.66
+815,Male,Legal,3,40,193,1140.89
+816,Female,Support,0,18,135,2859.52
+817,Female,Marketing,0,64,193,2590.32
+818,Female,Services,0,49,114,2756.88
+819,Female,Legal,0,82,188,3350.26
+820,Male,Research and Development,2,16,150,2221.73
+821,Male,Human Resources,1,80,200,3702.73
+822,Male,Legal,2,34,192,3824.38
+823,Female,Product Management,2,51,183,4574.85
+824,Male,Accounting,0,73,112,4205.15
+825,Male,Human Resources,3,93,188,2334.29
+826,Male,Training,2,50,141,2708.56
+827,Female,Business Development,3,91,146,4093.34
+828,Male,Legal,3,21,105,1960.7
+829,Male,Human Resources,1,23,157,3321.44
+830,Male,Sales,2,27,157,2401.21
+831,Male,Business Development,2,81,128,2502.43
+832,Male,Legal,2,52,111,3415.53
+833,Female,Product Management,3,20,121,3376.92
+834,Male,Research and Development,2,46,134,4383.55
+835,Female,Legal,2,3,170,4163.29
+836,Female,Services,2,95,181,1736.83
+837,Male,Services,0,30,113,3295.14
+838,Female,Research and Development,3,27,121,3787.05
+839,Male,Research and Development,1,57,133,1739.16
+840,Female,Research and Development,1,68,113,2017.76
+841,Female,Sales,1,91,105,3494.98
+842,Female,Research and Development,0,75,166,4053.02
+843,Female,Engineering,2,88,132,2311.76
+844,Female,Support,3,56,196,2342.41
+845,Male,Marketing,2,1,106,1376.91
+846,Male,Support,1,60,109,1992.28
+847,Male,Support,0,89,101,4700.12
+848,Male,Training,0,58,117,1674.19
+849,Female,Human Resources,1,31,124,1949.07
+850,Male,Product Management,2,70,198,4416.03
+851,Male,Product Management,1,55,155,4535.18
+852,Female,Product Management,0,33,172,2889.69
+853,Female,Marketing,1,36,156,3800.28
+854,Male,Legal,0,71,104,2098.1
+855,Female,Legal,2,40,160,2617.31
+856,Female,Accounting,3,52,168,3019.93
+857,Male,Support,3,13,137,1820.8
+858,Male,Sales,0,76,186,1157.46
+859,Female,Sales,1,40,140,1353.83
+860,Male,Training,0,3,122,4556.22
+861,Male,Legal,2,4,108,2522.42
+862,Female,Legal,1,45,196,4535.06
+863,Female,Legal,2,50,107,3590.99
+864,Female,Product Management,0,63,183,1992.24
+865,Female,Human Resources,1,5,170,3854.77
+866,Female,Accounting,1,28,108,3083.19
+867,Male,Support,2,94,117,3985.14
+868,Female,Product Management,0,96,122,2058.74
+869,Male,Marketing,1,51,112,3010.91
+870,Male,Support,0,93,104,1516.4
+871,Male,Legal,0,3,108,3116.23
+872,Female,Services,2,58,111,1908.86
+873,Female,Product Management,2,90,113,4631.9
+874,Male,Training,0,48,195,2838.73
+875,Male,Engineering,0,42,156,1036.8
+876,Male,Services,2,32,199,1933.78
+877,Female,Human Resources,0,44,105,4728.98
+878,Female,Business Development,0,98,108,1232.11
+879,Female,Marketing,2,16,157,2491.69
+880,Male,Business Development,3,27,190,4078.07
+881,Male,Human Resources,1,17,161,2433.67
+882,Female,Legal,2,34,182,1823.46
+883,Male,Legal,2,74,157,1728.82
+884,Male,Engineering,1,53,102,2584.04
+885,Male,Training,1,46,156,1691.27
+886,Female,Business Development,1,58,104,2291.29
+887,Female,Legal,2,34,158,1853.33
+888,Male,Training,2,55,143,2716.42
+889,Male,Marketing,0,75,155,2489.92
+890,Female,Research and Development,2,87,200,3105.46
+891,Male,Human Resources,0,25,187,2128.6
+892,Male,Business Development,1,79,115,4211.64
+893,Female,Training,0,4,156,3743.53
+894,Female,Accounting,0,96,140,2895.13
+895,Male,Research and Development,0,74,185,2710.5
+896,Male,Services,0,45,108,3339.75
+897,Female,Product Management,3,29,178,4230.79
+898,Male,Accounting,1,67,128,1467.51
+899,Female,Engineering,3,31,140,2471.81
+900,Male,Engineering,2,73,126,4324.39
+901,Female,Engineering,1,48,179,1569.05
+902,Male,Research and Development,1,79,100,2424.37
+903,Male,Legal,2,52,200,1323.3
+904,Female,Services,1,41,196,2294.1
+905,Male,Business Development,1,35,148,2987.95
+906,Male,Marketing,0,8,189,4587.53
+907,Female,Services,3,50,143,2976.98
+908,Male,Support,2,0,192,1126.6
+909,Male,Services,2,12,163,2682.64
+910,Male,Support,0,94,151,3488.13
+911,Male,Engineering,1,70,184,2072.04
+912,Male,Business Development,1,75,174,4687.89
+913,Female,Support,2,50,146,2021.49
+914,Male,Product Management,0,57,163,3771.65
+915,Female,Legal,2,9,140,1096.94
+916,Male,Sales,2,95,194,2441.35
+917,Female,Support,1,36,143,3137.01
+918,Male,Accounting,3,96,139,4303.58
+919,Female,Product Management,0,46,148,3135.69
+920,Male,Support,1,2,185,4291.64
+921,Female,Accounting,1,16,124,3381.8
+922,Male,Business Development,2,4,122,2375.96
+923,Male,Research and Development,1,27,191,4246.46
+924,Male,Business Development,2,29,169,2483.64
+925,Female,Product Management,3,91,152,1751.91
+926,Male,Engineering,3,89,180,2468.65
+927,Male,Research and Development,0,56,140,2662.72
+928,Male,Legal,1,57,112,3072.16
+929,Male,Services,0,45,130,3578.23
+930,Male,Support,0,82,193,1794.03
+931,Female,Legal,2,91,194,2794.5
+932,Female,Research and Development,3,76,194,1692.06
+933,Female,Engineering,2,47,170,1814.45
+934,Female,Business Development,1,41,165,3357.73
+935,Male,Training,2,1,143,4602.16
+936,Female,Training,3,53,161,2428.37
+937,Male,Human Resources,0,74,101,3190.0
+938,Female,Support,1,53,198,3707.88
+939,Male,Training,1,68,131,1543.16
+940,Female,Sales,3,28,140,1959.8
+941,Female,Research and Development,1,61,150,1036.29
+942,Female,Human Resources,3,76,133,2043.06
+943,Male,Accounting,3,94,133,3923.81
+944,Female,Human Resources,1,36,165,3612.88
+945,Female,Engineering,1,92,193,1031.8
+946,Male,Training,3,41,183,1964.32
+947,Female,Product Management,3,53,109,3086.56
+948,Male,Legal,3,46,157,2552.43
+949,Female,Accounting,3,2,199,3002.86
+950,Male,Services,0,36,189,1839.31
+951,Male,Business Development,0,62,112,3783.44
+952,Female,Business Development,0,6,145,2160.51
+953,Male,Marketing,2,40,100,3371.23
+954,Female,Legal,1,52,162,3042.33
+955,Male,Support,0,59,156,1233.85
+956,Female,Research and Development,1,39,169,3102.63
+957,Male,Product Management,0,91,164,4084.74
+958,Male,Research and Development,0,76,141,1475.5
+959,Female,Engineering,0,89,104,1097.24
+960,Female,Support,0,15,102,4014.77
+961,Female,Sales,0,81,150,3871.11
+962,Female,Product Management,2,66,141,1198.39
+963,Female,Research and Development,3,19,177,4302.57
+964,Female,Accounting,2,60,127,2200.37
+965,Male,Training,2,58,114,3793.77
+966,Female,Product Management,3,6,134,4990.52
+967,Female,Accounting,2,46,168,4850.0
+968,Male,Training,2,6,119,4189.35
+969,Male,Product Management,2,72,171,2290.3
+970,Male,Sales,1,33,114,1599.2
+971,Male,Support,1,12,187,4135.99
+972,Male,Marketing,3,58,161,3071.44
+973,Male,Human Resources,2,17,147,1888.07
+974,Female,Human Resources,2,7,196,1843.82
+975,Female,Marketing,3,5,148,1857.77
+976,Female,Training,0,27,100,4267.6
+977,Male,Training,2,39,117,2722.25
+978,Male,Marketing,2,93,117,2834.59
+979,Male,Product Management,3,7,196,2989.66
+980,Male,Marketing,1,87,199,4973.33
+981,Male,Training,0,69,121,4185.83
+982,Female,Support,0,25,147,4491.38
+983,Female,Support,2,60,129,4993.74
+984,Female,Sales,3,6,101,1854.49
+985,Male,Training,2,55,124,1607.71
+986,Male,Business Development,1,33,172,1667.01
+987,Male,Research and Development,3,28,171,1195.15
+988,Male,Marketing,0,22,130,3174.6
+989,Male,Research and Development,2,48,117,1485.03
+990,Male,Sales,2,20,159,1485.19
+991,Female,Human Resources,1,16,144,4116.28
+992,Female,Training,3,56,197,2984.45
+993,Male,Sales,2,15,112,2250.88
+994,Male,Services,3,81,186,2648.21
+995,Female,Sales,2,89,188,4110.58
+996,Male,Engineering,3,22,151,3344.03
+997,Female,Research and Development,1,22,117,3378.72
+998,Male,Services,2,62,141,1296.92
+999,Male,Engineering,1,44,134,3332.14
+1000,Female,Services,3,2,148,1238.44
