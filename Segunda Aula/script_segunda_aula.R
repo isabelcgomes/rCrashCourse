@@ -27,3 +27,4 @@ t.test(dados$Altura, mu = 167, alternative = "greater") #avalia se a média amos
 
 #Boxplot: gráfico que permite a visualização da média, da distribuição dos dados e do desvio da minha amostra, bem como outliers
 boxplot(dados$Altura, ylab = "Altura (cm)")
+
