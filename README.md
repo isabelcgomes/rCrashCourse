@@ -1,4 +1,4 @@
-# Introduction
+# Note
 Codes and studies about R language based on projects on decision support
 
 In this repository you will find:
@@ -52,13 +52,9 @@ Estatística inferencial usada para avaliar a igualdade de variâncias de uma va
 
 Se o valor-p resultante do teste de Levene for menor que o nível de significância adotado, é improvável que as diferenças obtidas nas variâncias amostrais tenham ocorrido com base na amostragem aleatória. Assim, a hipótese nula (variâncias iguais) é rejeitada e conclui-se que há diferença entre as variâncias na população (heterocedástica).
 
-
 ## Teste T
 
 Quando eu penso em um Teste T para avaliar uma amostra com variância homogênea
 
-
 # Referências
-
-
 
