@@ -39,3 +39,26 @@ Exemplo:
 Nesse exemplo, eu rejeito a hipótese nula porque meu p-valor é menor que meu nível de significância. O nível de significância pode variar de acordo com o tipo de experimento que eu tenho. Um exemplo é um experimento na área de medicina, nesse caso, o meu nível de significância deve ser muito maior para rejeitar uma hipótese nula.
 
 Ainda no meu exemplo, rejeitar a hipótese nula significa dizer que a mudança que eu fiz no meu ambiente alterou a distribuição dos meus dados.
+
+As hipóteses podem ser utilizadas para várias coisas, normalidade, homogeneidade, independência das variáveis...
+
+# Testes estatísticos
+
+## Teste de Levene
+
+[Wikipédia, Teste de Levene](https://pt.wikipedia.org/wiki/Teste_de_Levene)
+
+Estatística inferencial usada para avaliar a igualdade de variâncias de uma variável calculada para dois ou mais grupos. Isso é, a homogeneidade de um grupo de dados. O teste de Levene avalia se as variâncias das populações das quais diferentes amostras são extraídas são iguais. 
+
+Se o valor-p resultante do teste de Levene for menor que o nível de significância adotado, é improvável que as diferenças obtidas nas variâncias amostrais tenham ocorrido com base na amostragem aleatória. Assim, a hipótese nula (variâncias iguais) é rejeitada e conclui-se que há diferença entre as variâncias na população (heterocedástica).
+
+
+## Teste T
+
+Quando eu penso em um Teste T para avaliar uma amostra com variância homogênea
+
+
+# Referências
+
+
+
