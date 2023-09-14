@@ -58,3 +58,6 @@ Quando eu penso em um Teste T para avaliar uma amostra com variância homogênea
 
 # Referências
 
+Livro Faveiro - Análise de dados (em SPSS)
+
+Econometria Básica Gujarati
