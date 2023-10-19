@@ -116,8 +116,12 @@ lmtest::coeftest(mod2) #se o sinal é negativo a relação é inversamente propo
 AIC(mod, mod2)
 BIC(mod, mod2)
 #esses dois são pmétodos para avaliar parcimônia, eu escolho sempre os de menor valor
+#Quando a diferença é menor do que 10, não tem diferença real, então vai pelo princípio da parcimônia
+
+car::Anova(mod2, mod, test='Chisq')
 
 #Tabela de classificação, método de saber se o modleo está acertando
+
 tab <- table(Observado = dados$Voto, Previsto=predict(mod2))
 
 tab
