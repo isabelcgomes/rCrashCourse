@@ -1,5 +1,3 @@
-#200058321
-#Isabel Caroline Gomes Giannecchini
 install.packages('readxl')
 install.packages('pacman')
 install.packages('psych')

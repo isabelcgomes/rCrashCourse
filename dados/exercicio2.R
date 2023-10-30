@@ -1,6 +1,3 @@
-#200058321
-#Isabel Caroline Gomes Giannecchini
-
 #Regressão Logística Multnomial
 
 install.packages('readxl')
